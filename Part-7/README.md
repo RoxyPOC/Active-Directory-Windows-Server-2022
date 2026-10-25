@@ -1,4 +1,4 @@
-Windows Server 2022: Shared Drives & Folder Permissions
+# Windows Server 2022: **Shared Drives & Folder Permissions**
 
 ## Part 1: Creating a Shared Folder
 
