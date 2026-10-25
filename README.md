@@ -6,3 +6,4 @@ A series of a lab for Active Directory, joining a domain and windows server 2022
 3. [Windows Server 2022: \VirtualBox Shared Folders and Active Directory Users(Part 3)](Part-3/README.md)
 4. [Windows Server 2022: Setting Up a Windows 11 VM and Joining It to a Domain(Part 4)](Part-4/README.md)
 5. [Windows Server 2022:Replicating Help Desk IT Issues - Account Management & Group Policy(Part 5)](Part-5/README.md)
+6. [Windows Server 2022:Patch Management Fundamentals & Action1(Part 6)](Part-6/README.md)
